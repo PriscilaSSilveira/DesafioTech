@@ -1,0 +1,38 @@
+1) O que é o RXJS? Como ele funciona? Por que é importante?
+ RxJS é uma biblioteca para uso em projetos que utilizam Javascript (TypeScript),
+ O RxJS é conceito de Observable, para lidar com alto volume de informação, 
+ para facilitar de tratamento, debugs, testes, etc.
+
+2) Por que utilizar rotas? O que é melhor: Definir rotas ou
+links estáticos (ahref)?
+Resposta: Porque as rotas renderizam apenas os componentes necessários na tela.
+O ahref faz com que a aplicação seja recarregada a cada navegação. 
+Sendo assim para melhor experiencia do usuario é melhor usar as rotas.
+
+3) O que é uma service e por que utilizar?
+Service é o objeto usado para organizar e/ou compartilhar estados de objetos e as 
+regras de negócio da aplicação. 
+
+4) Uma aplicação utiliza um mesmo componente repetida
+vezes com o código duplicado. O que fazer nessa situação?
+Crio apenas um componete  exporto ele no codigo necessario.
+
+5) Você se depara com uma situação em que precisa receber
+um determinado dado para uma tela X. Como você faz para
+receber esse dado?
+Resposta: Crio um formulário para receber o dado.
+
+6) Por que utilizar boas práticas de programação?
+Para facilitar a compreensão e manutenção do codigo.
+
+7) Por que padronização de código é importante?
+) A padronização de código é importante porque torna mais fácil a sua 
+leitura e consequentemente facilitará a sua refatoração
+
+8) O que são pré-processadores? Quais suas diferenças?
+Pré-processadores são interpretadores de de código, ou seja recebem 
+um texto e efetuam alguma conversão sobre ele.
+
+9) Você sabe o que é um Pipe?
+Os pipes são um recurso para formatar a exibição de valores corretamente.
+
